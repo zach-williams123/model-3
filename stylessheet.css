@@ -1,0 +1,53 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.bold {
+    color: black;
+    font-weight: bold;
+}
+
+main img {
+    width: 80%; /* Adjust width as necessary */
+}
+
+footer {
+    text-align: center;
+}
+
+#icons {
+    color: lightblue;
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#icons i {
+    margin: 0 10px;
+}
+
+.copyright {
+    font-size: 0.8rem;
+    color: lightgrey;
+}
+
+.attribution {
+    font-size: 0.8rem;
+    color: lightgrey;
+}
+image{
+    border: 200px;
+    
+}
